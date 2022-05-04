@@ -1,2 +1,2 @@
 # C-Programms
-Here is my codes in progra C.
+Here is my codes in program C.
